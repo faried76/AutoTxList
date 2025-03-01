@@ -21,10 +21,10 @@ pip install requests
 pip install web3
 ```
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/AutoTxListAddresEVM.git
+git clone https://github.com/faried76/AutoTxList.git
 ```
 ```
-cd AutoTxListAddresEVM
+cd AutoTxList
 ```
 # Edit File listaddress Masukin Address Kalian
 ```
@@ -57,10 +57,10 @@ pip install requests
 pip install web3==5.28.0
 ```
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/AutoTxListAddresEVM.git
+git clone https://github.com/faried76/AutoTxList.git
 ```
 ```
-cd AutoTxListAddresEVM
+cd AutoTxList
 ```
 ```
 python txevm.py
